@@ -175,7 +175,7 @@ Notes:
 
 ### xLLM
 
-check [here](examples/Ascend_GPU/README_zh.md) for detailed instructions.
+check [here](examples/Ascend_NPU/README_zh.md) for detailed instructions.
 
 ## Model Fine-tuning
 

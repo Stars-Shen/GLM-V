@@ -139,7 +139,7 @@ python3 -m sglang.launch_server --model-path zai-org/GLM-4.6V \
 
 ### xLLM
 
-参考 [这里](examples/Ascend_GPU/README_zh.md) 获取详细配置教程。
+参考 [这里](examples/Ascend_NPU/README_zh.md) 获取详细配置教程。
 
 ## 模型微调
 
