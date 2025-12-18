@@ -70,6 +70,9 @@ see [Fixed and Remaining Issues](#fixed-and-remaining-issues).
 | GLM-4.1V-9B-Thinking | [🤗 Hugging Face](https://huggingface.co/zai-org/GLM-4.1V-9B-Thinking)<br>[🤖 ModelScope](https://modelscope.cn/models/ZhipuAI/GLM-4.1V-9B-Thinking) | Reasoning        |
 | GLM-4.1V-9B-Base     | [🤗 Hugging Face](https://huggingface.co/zai-org/GLM-4.1V-9B-Base)<br>[🤖 ModelScope](https://modelscope.cn/models/ZhipuAI/GLM-4.1V-9B-Base)         | Base             |
 
+
++ Hugging Face provides GGUF format model weights. You can download the GGUF format model of GLM-V from [here](https://huggingface.co/collections/ggml-org/glm-v).
+
 ## Using Case
 
 ### Grounding

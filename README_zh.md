@@ -46,6 +46,8 @@
 | GLM-4.1V-9B-Thinking | [🤗 Hugging Face](https://huggingface.co/zai-org/GLM-4.1V-9B-Thinking)<br> [🤖 ModelScope](https://modelscope.cn/models/ZhipuAI/GLM-4.1V-9B-Thinking) | 推理模型   |
 | GLM-4.1V-9B-Base     | [🤗 Hugging Face](https://huggingface.co/zai-org/GLM-4.1V-9B-Base)<br> [🤖 ModelScope](https://modelscope.cn/models/ZhipuAI/GLM-4.1V-9B-Base)         | 基座模型   |
 
++ Hugging Face 提供了 GGUF 格式模型权重，你可以前往 [这里](https://huggingface.co/collections/ggml-org/glm-v) 下载 GLM-V 的 GGUF 格式模型。
+
 ## 部分场景解释
 
 ### 定位（Grounding）
